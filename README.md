@@ -1,6 +1,6 @@
 # mws
 
-Enables access to amazon seller account data programatically.
+Manipulate amazon seller data programatically.
 
 documentation:<br/>
 https://github.com/python-amazon-mws/python-amazon-mws<br/>
