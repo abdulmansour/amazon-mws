@@ -2,16 +2,15 @@
 Manipulate amazon seller data programatically
 ### Prerequisites<br/>
 Register to obtain your MWS credentials: [mws registration](https://docs.developer.amazonservices.com/en_US/dev_guide/DG_Registering.html)<br/>
-
-Export your API credentials as environment variables in your shell:<br/>
+Required packages
+```
+pip install mws
+```
+Export your MWS credentials as environment variables in your shell:<br/>
 ```
 export MWS_ACCOUNT_ID=...
 export MWS_ACCESS_KEY=...
 export MWS_SECRET_KEY=...
-```
-Required packages
-```
-pip install mws
 ```
 Test your credentials and proper connection to seller account by running [test.py](https://github.com/abdulmansour/mws/blob/master/test.py)<br/>
 ### Documentation<br/>
