@@ -1,4 +1,4 @@
-import mws, os, pprint
+import mws, os
 
 count = 1
 
