@@ -1,8 +1,8 @@
 # mws
 Manipulate amazon seller data programatically
 ### Prerequisites<br/>
-Obtain your MWS credentials<br/>
-[mws registration](https://docs.developer.amazonservices.com/en_US/dev_guide/DG_Registering.html)<br/>
+Register to obtain your MWS credentials [mws registration](https://docs.developer.amazonservices.com/en_US/dev_guide/DG_Registering.html<br/>
+
 Export your API credentials as environment variables in your shell:<br/>
 ```
 export MWS_ACCOUNT_ID=...
