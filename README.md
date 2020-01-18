@@ -5,9 +5,9 @@ Manipulate amazon seller data programatically.
 requirements:<br/>
 Export your API credentials as environment variables in your shell.<br/>
 
-export MWS_ACCOUNT_ID=...
-export MWS_ACCESS_KEY=...
-export MWS_SECRET_KEY=...
+export MWS_ACCOUNT_ID=...<br/>
+export MWS_ACCESS_KEY=...<br/>
+export MWS_SECRET_KEY=...<br/>
 
 documentation:<br/>
 https://github.com/python-amazon-mws/python-amazon-mws<br/>
