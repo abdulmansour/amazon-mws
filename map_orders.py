@@ -1,19 +1,19 @@
-import folium
+import os
+import googlemaps
 import pandas as pd
-import json
-from folium import plugins
-import pgeocode
+import pprint
 
-#df = pd.read_csv('orders.csv')
+gmaps = googlemaps.Client(key=os.environ['GOOGLE_MAP_API'])
 
-#with open('na.geo.json') as f:
-#    naArea = json.load(f)
-#    m = folium.Map(location[45.4819,-73.6421], zoom_start=11)
-#    folium.GeoJson(naArea).add_to(m)
+df = pd.read_csv('orders.csv')
 
-nomi = pgeocode.Nominatim('ca')
-result = nomi.query_postal_code('J2C5B2')
-print(result['latitude'])
-print(result['longitude'])
+address_list = []
+for index, row in df.iterrows():
+    address_list.append(row['City'] + ' ' + row['StateOrRegion'] + ' ' + row['PostalCode'] + ' ' + row['CountryCode'])
 
+pprint.pprint(address_list)
+
+# Geocoding an address
+#geocode_result = gmaps.geocode('1600 Amphitheatre Parkway, Mountain View, CA')
+#print(geocode_result)
 
