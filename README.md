@@ -1,6 +1,6 @@
 # mws
 
-## Manipulate amazon seller data programatically
+Manipulate amazon seller data programatically
 
 ### Prerequisites<br/>
 export your API credentials as environment variables in your shell:<br/>
