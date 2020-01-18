@@ -17,7 +17,6 @@ for o in orders_list:
     count = count + 1
 
 while('NextToken' in response):
-
     next_token = response['NextToken']['value']
     response = orders_api.list_orders_by_next_token(next_token).parsed
     orders_list = response['Orders']['Order']
