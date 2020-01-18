@@ -3,7 +3,7 @@ Manipulate amazon seller data programatically
 ### Prerequisites<br/>
 Register to obtain your MWS credentials and/or Advertising API: 
 * [mws registration](https://docs.developer.amazonservices.com/en_US/dev_guide/DG_Registering.html)<br/>
-* [advertising api](https://advertising.amazon.com/about-api)
+* [advertising api](https://advertising.amazon.com/about-api)<br/>
 Required packages
 ```
 pip install mws
