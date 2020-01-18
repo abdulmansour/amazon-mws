@@ -9,6 +9,11 @@ export MWS_ACCOUNT_ID=...
 export MWS_ACCESS_KEY=...
 export MWS_SECRET_KEY=...
 ```
+Required packages
+```
+pip install mws
+```
+Test your credentials and proper connection to seller account by running [test.py](https://github.com/abdulmansour/mws/blob/master/test.py)<br/>
 ### Documentation<br/>
 * [mws github](https://github.com/python-amazon-mws/python-amazon-mws)
 * [mws documentation](http://docs.developer.amazonservices.com/en_UK/dev_guide/index.html)
