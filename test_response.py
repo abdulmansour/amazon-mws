@@ -6,7 +6,8 @@ orders_api = mws.Orders(
         account_id=os.environ['MWS_ACCOUNT_ID']
         )
 marketplace_ca = 'A2EUQ1WTGCTBG2'
+marketplace_us = 'ATVPDKIKX0DER'
 
-response = orders_api.list_orders(marketplaceids=[marketplace_ca], created_after='2019-01-01').parsed
+response = orders_api.list_orders(marketplaceids=[marketplace_ca, marketplace_us], created_after='2019-01-01').parsed
 
 pprint.pprint(response)

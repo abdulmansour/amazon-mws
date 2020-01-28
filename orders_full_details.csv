@@ -1,0 +1,101 @@
+AmazonOrderId,BuyerEmail,NumberOfItemsShipped,OrderStatus,Amount,PurchaseDate,ShipServiceLevel,IsPrime,City,Country,PostalCode,StateOrRegion
+702-3975872-9048223,n4wjyvl4s3px46n@marketplace.amazon.ca,1,Shipped,38.14,2018-10-16T17:11:00.299Z,Standard,false,Brookside,CA,B3T 0B3,Nova Scotia
+701-5800534-7958603,zrdr2lf7vg2skbv@marketplace.amazon.ca,1,Shipped,24.99,2018-10-22T18:10:32.919Z,Expedited,false,Markham,CA,L6C 2X9,Ontario
+702-0963069-5482647,70lyyw9q7vxrztz@marketplace.amazon.ca,1,Shipped,35.04,2018-10-24T04:18:52.448Z,NextDay,false,Burnaby,CA,V5G 1V4,British Columbia
+701-5812018-0889049,2xwhbm8cbxj6r5m@marketplace.amazon.ca,1,Shipped,36.99,2018-10-25T21:16:56.236Z,Standard,false,Red Lake,CA,P0V 0B3,Ontario
+702-8393648-0720240,100tmgvptky227h@marketplace.amazon.ca,1,Shipped,46.39,2018-10-26T12:33:58.861Z,Standard,false,Paradise,CA,A1L 1R9,NL
+702-1969533-1701806,100tmgvptky227h@marketplace.amazon.ca,1,Shipped,46.39,2018-10-26T12:42:12.040Z,Standard,false,Paradise,CA,A1L 1R9,NL
+702-2273588-1171413,1rbkx0txvh60zcq@marketplace.amazon.ca,1,Shipped,44.99,2018-10-30T21:20:09.620Z,SecondDay,false,Burlington,CA,L7L2M9,Ontario
+701-0928010-7135460,f5b3zj71zwdtbz8@marketplace.amazon.ca,1,Shipped,44.99,2018-10-31T00:56:34.265Z,Expedited,false,Hamilton,CA,L8W 2X3,Ontario
+702-8421572-7615420,b5hgdbh3kzpgjbz@marketplace.amazon.ca,1,Shipped,44.99,2018-11-01T16:08:44.769Z,Standard,false,Hamilton,CA,L9B 2V7,Ontario
+701-8387831-5894651,null,1,Shipped,44.99,2018-11-02T16:48:45.362Z,Standard,false,Montreal,CA,H2X 3B4,Quebec
+701-9971758-8401831,hf8k1pxml56x9g4@marketplace.amazon.ca,1,Shipped,44.99,2018-11-06T04:08:22.384Z,Standard,false,Dollard-Des-Ormeaux,CA,H9B 2K5,Quebec
+702-0358357-8759470,w96cpf4hs33xv8f@marketplace.amazon.ca,1,Shipped,44.99,2018-11-06T05:07:15.613Z,SecondDay,false,Burnaby,CA,V5C 3Z6,Bc
+701-8798053-9597807,w4dyf1f5pbhgj5g@marketplace.amazon.ca,1,Shipped,44.99,2018-11-06T14:51:23.718Z,Standard,false,RICHMOND HILL,CA,L4C 5H5,ON
+702-8163708-8445809,gdxpxpkdkm4r20n@marketplace.amazon.ca,1,Shipped,44.99,2018-11-06T15:54:53.489Z,Expedited,false,toronto,CA,M1K 3B6,Ontario
+702-4510077-4929040,5jft973zh74ld4p@marketplace.amazon.ca,1,Shipped,44.99,2018-11-06T18:25:45.896Z,Expedited,false,Laval,CA,H7P 1G3,Quebec
+701-5272273-5790666,qj7mhtbbz0142wy@marketplace.amazon.ca,1,Shipped,44.99,2018-11-06T21:56:12.427Z,SecondDay,false,Milton,CA,L9T 3E8,Ontario
+701-3613518-5339402,qdk2ydl4sfym366@marketplace.amazon.ca,1,Shipped,44.99,2018-11-07T09:52:15.159Z,SecondDay,false,Summerside,CA,C1N 1W2,Prince Edward Island
+702-6614489-9093013,jgfc04yffgj0304@marketplace.amazon.ca,1,Shipped,44.99,2018-11-08T04:05:54.229Z,Standard,false,Markham,CA,L6E 0H3,Ontario
+701-1435266-7262624,g4gq6qkx8plypqv@marketplace.amazon.ca,1,Shipped,44.99,2018-11-08T23:58:03.349Z,Expedited,false,Toronto,CA,M6N 1X6,On
+701-5938148-4129814,null,1,Shipped,44.99,2018-11-09T02:44:34.541Z,SecondDay,false,Toronto,CA,M6B 1V2,Ontario
+702-5969916-1618667,null,0,Canceled,null,2018-11-09T04:50:18.626Z,Standard,false,null,null,null,null
+702-1697274-4341853,bqjdgjc6706tm3x@marketplace.amazon.ca,1,Shipped,44.99,2018-11-09T11:20:19.776Z,SecondDay,false,L'Isle-Verte,CA,G0L 1K0,Quebec
+702-4798357-3797839,tcj51t77x1rsn3z@marketplace.amazon.ca,1,Shipped,44.99,2018-11-09T14:21:52.143Z,SecondDay,false,Calgary,CA,T3A 3Y2,Alberta
+701-9224437-6304258,zg3ty3q4npjct99@marketplace.amazon.ca,1,Shipped,44.99,2018-11-09T22:08:41.080Z,SecondDay,false,North York,CA,M2K 2V6,Ontario
+701-0847780-9422632,44mnb5ym5qsx7nm@marketplace.amazon.ca,1,Shipped,44.99,2018-11-10T05:22:04.846Z,SecondDay,false,sturgeon county,CA,T8R 1X7,Alberta
+702-6743051-0462669,06lckh9vlzdtfl9@marketplace.amazon.ca,1,Shipped,44.99,2018-11-10T06:09:15.744Z,SecondDay,false,Haliburton,CA,K0M 1S0,Ontario
+702-1131113-8371463,null,1,Shipped,49.98,2018-11-10T13:41:07.355Z,Standard,false,Massey Drive,CA,A2H 0C8,Newfoundland
+702-3649838-2344254,pn953624gsbg728@marketplace.amazon.ca,1,Shipped,44.99,2018-11-10T18:36:26.734Z,SecondDay,false,Ottawa,CA,K2B 1A7,Ontario
+701-1867600-5647448,16mbg910fksy4f9@marketplace.amazon.ca,1,Shipped,44.99,2018-11-11T03:38:55.723Z,SecondDay,false,Regina,CA,S4S 4C7,Saskatchewan
+702-9960967-4249018,klq2lqfnn5993bj@marketplace.amazon.ca,1,Shipped,54.99,2018-11-11T15:07:05.833Z,Standard,false,Gatineau,CA,J9A 1P1,Quebec
+702-5346207-8426634,dmhg0k0pb2101g8@marketplace.amazon.ca,1,Shipped,54.99,2018-11-12T17:40:01.934Z,SecondDay,false,Regina,CA,S4W 0J8,Saskatchewan
+701-4500218-3281057,gj7rsvd5jxt8cfd@marketplace.amazon.ca,1,Shipped,62.39,2018-11-12T21:51:51.286Z,Standard,false,GRAND-BARACHOIS,CA,E4P 2S0,NB
+702-9959106-3331421,ss3vld8zk13mm5x@marketplace.amazon.ca,1,Shipped,54.99,2018-11-13T18:02:09.453Z,SecondDay,false,Delhi,CA,N4B 2W4,Ontario
+702-3726842-7441832,481f4zcmcdxc877@marketplace.amazon.ca,1,Shipped,54.99,2018-11-13T19:35:17.551Z,SecondDay,false,Scarborough,CA,M1K 4W5,Ontario
+702-5899966-0106610,48ny9zrr61rrbg8@marketplace.amazon.ca,1,Shipped,54.99,2018-11-14T02:58:05.092Z,Standard,false,Morden,CA,R6M 1J1,Manitoba
+701-3114603-7825036,7534h7hnp1h4z6j@marketplace.amazon.ca,1,Shipped,54.99,2018-11-14T03:28:52.302Z,Standard,false,Kapuskasing,CA,P5N 2M2,Ontario
+701-4758477-1377044,null,0,Canceled,null,2018-11-14T14:48:46.645Z,Standard,false,null,null,null,null
+701-2585207-3325041,null,0,Canceled,null,2018-11-14T23:15:35.459Z,Standard,false,null,null,null,null
+701-5496177-4852205,q6l6hzvfpwjc3vz@marketplace.amazon.ca,1,Shipped,73.99,2018-11-14T23:45:57.671Z,Standard,false,Savona,CA,V0K 2J0,BC
+701-8276111-3325036,null,0,Canceled,null,2018-11-15T21:42:48.567Z,Standard,false,null,null,null,null
+701-4436086-0739436,sh9fc19cxh11f05@marketplace.amazon.ca,1,Shipped,54.99,2018-11-15T21:53:05.598Z,SecondDay,false,Delhi,CA,N4B 2C8,Ontario
+701-8563022-0108205,t442741brxj6tcy@marketplace.amazon.ca,1,Shipped,54.99,2018-11-15T23:20:29.328Z,Expedited,false,Nanaimo,CA,V9V 0A1,British Columbia
+702-9473461-4615469,t56f50bsq5r9m9s@marketplace.amazon.ca,1,Shipped,54.99,2018-11-16T01:46:22.283Z,Expedited,false,St-Cesaire,CA,J0L 1T0,Quebec
+701-6534626-0614610,0vlr1x750rfq88h@marketplace.amazon.ca,1,Shipped,54.99,2018-11-16T17:56:14.324Z,SecondDay,false,Mississauga,CA,L5L 2G4,Ontario
+702-7003510-1485820,t58x23m3c9mzqfs@marketplace.amazon.ca,1,Shipped,54.99,2018-11-16T20:51:21.307Z,SecondDay,false,Dartmouth,CA,B2Y 3N3,Nova Scotia
+701-8003655-5949017,7f3pxggltf0k0sn@marketplace.amazon.ca,1,Shipped,54.99,2018-11-16T21:48:57.384Z,Standard,false,Toronto,CA,M5L 1A9,Ontario
+702-5874511-4673005,wjpyltw77f2myck@marketplace.amazon.ca,1,Shipped,54.99,2018-11-17T01:43:13.768Z,Expedited,false,OTTAWA,CA,K1Z 7L0,ON
+702-3981143-6595447,hljv926bxxtlstb@marketplace.amazon.ca,1,Shipped,54.99,2018-11-17T02:00:09.325Z,SecondDay,false,Saint-Joseph-De-Beauce,CA,G0S 2V0,QC
+701-5827140-6799455,qmy4j57jzn4n5dv@marketplace.amazon.ca,1,Shipped,54.99,2018-11-17T02:08:53.963Z,Standard,false,Leroy,CA,S0K 2P0,SK
+702-4588345-2305021,hljv926bxxtlstb@marketplace.amazon.ca,1,Shipped,54.99,2018-11-17T02:11:18.915Z,SecondDay,false,Saint-Joseph-De-Beauce,CA,G0S 2V0,QC
+701-2273653-0217005,qnh5zpyvkc451vk@marketplace.amazon.ca,2,Shipped,109.98,2018-11-17T15:50:12.948Z,SecondDay,false,Nine Mile Creek,CA,C0A 1H2,Prince Edward Island
+701-8322765-1156249,null,0,Canceled,null,2018-11-18T00:33:48.634Z,Standard,false,null,null,null,null
+702-5557235-3674658,3sdkwfrzk3fcxgw@marketplace.amazon.ca,2,Shipped,109.98,2018-11-18T04:34:36.555Z,SecondDay,false,WEST VANCOUVER,CA,V7V 2C5,British Columbia
+701-4302044-2265831,mbzy2cs2v9yqj11@marketplace.amazon.ca,1,Shipped,54.99,2018-11-18T15:05:40.310Z,Standard,false,Kitchener,CA,N2N 3G3,Ontario
+702-0104657-7096274,6bpzvn04yq77j4b@marketplace.amazon.ca,1,Shipped,54.99,2018-11-18T16:25:43.319Z,Expedited,false,Parkland County,CA,T7Y 2N2,Alberta
+702-7179079-1161807,5xcp3tnb580cdtd@marketplace.amazon.ca,1,Shipped,54.99,2018-11-18T22:41:10.858Z,Standard,false,Lorraine,CA,J6Z 2Y7,Quebec
+702-4362812-0565801,vk1bpm2n3bv7hsz@marketplace.amazon.ca,1,Shipped,63.14,2018-11-19T01:23:48.666Z,Standard,false,Rouyn-Noranda,CA,J0Z 1Y0,Quebec
+702-8831578-1729051,f5szzt5sm0d5ghb@marketplace.amazon.ca,1,Shipped,54.99,2018-11-19T05:51:49.701Z,Standard,false,Tofino,CA,V0R2Z0,British Columbia
+702-8808319-2676218,psslq04hb5lb172@marketplace.amazon.ca,1,Shipped,54.99,2018-11-19T17:37:34.337Z,Standard,false,Niagara Falls,CA,L2G 7L8,Ontario
+702-2314951-1150605,w1n5rts3r8yf810@marketplace.amazon.ca,1,Shipped,54.99,2018-11-20T16:28:56.378Z,Standard,false,Pincourt,CA,J7W0R4,Quebec
+701-5286778-5095452,null,1,Shipped,54.99,2018-11-20T21:26:04.883Z,Standard,false,Winnipeg,CA,R2K 3T5,Manitoba
+701-7202133-5385812,fqwq0qk0n0wm0hw@marketplace.amazon.ca,1,Shipped,54.99,2018-11-20T22:44:27.953Z,SecondDay,false,Kirkland Lake,CA,P2N 3L8,Ontario
+702-8040141-2441000,null,2,Shipped,109.98,2018-11-21T05:42:46.041Z,Standard,false,Richmond,CA,V6X2P4,British Columbia
+701-9520559-1849007,2v9vkhpl70dmbbk@marketplace.amazon.ca,1,Shipped,54.99,2018-11-21T17:36:07.979Z,Standard,false,Norwood,CA,K0L 2V0,Ontario
+702-9658075-7539412,gb1zsv63xy665nf@marketplace.amazon.ca,1,Shipped,58.98,2018-11-21T20:52:35.525Z,Expedited,false,Mandeville,CA,J0K 1L0,Quebec
+701-3461628-3812229,3gxvrjs2x6k5qsd@marketplace.amazon.ca,1,Shipped,54.99,2018-11-21T21:14:03.792Z,Standard,false,Calgary,CA,T3G 5T1,AB
+701-1210866-5928258,5m4lbsl3dp1jlv6@marketplace.amazon.ca,1,Shipped,54.99,2018-11-21T21:51:51.033Z,Expedited,false,Hope,CA,V0X 1L1,British Columbia
+702-4809173-9301811,rwdybkkr6dyrm44@marketplace.amazon.ca,1,Shipped,54.99,2018-11-22T03:33:46.479Z,SecondDay,false,Dungannon,CA,N0M 1R0,ON
+701-6276990-8512242,rjfk33qsg4tkhh9@marketplace.amazon.ca,1,Shipped,54.99,2018-11-23T11:36:47.889Z,SecondDay,false,Blainville,CA,J7C 4T2,Quebec
+702-4781210-1737011,4qljjny46swvgx8@marketplace.amazon.ca,1,Shipped,51.99,2018-11-23T14:38:22.226Z,Standard,false,St Marys,CA,N4X 1E8,ON
+702-7864290-9490666,d2z4wzcq2jjly3q@marketplace.amazon.ca,1,Shipped,51.99,2018-11-23T16:37:18.618Z,Standard,false,Terrebonne,CA,J6W 6H4,Quebec
+701-1942245-8474639,dzbkcy3735x90ln@marketplace.amazon.ca,1,Shipped,54.99,2018-11-23T16:43:10.989Z,SecondDay,false,Calgary,CA,T2Y5A4,Alberta
+702-0068512-8103435,null,1,Shipped,51.99,2018-11-23T17:03:17.270Z,Standard,false,Kitchener,CA,N2N 2M3,Ontario
+701-0592175-7632210,gys7zqshk4x18fc@marketplace.amazon.ca,1,Shipped,51.99,2018-11-23T17:13:52.997Z,SecondDay,false,Scarborough,CA,M1P1K8,Ontario
+702-9872123-8625865,lchxr3xjj2xg1wd@marketplace.amazon.ca,1,Shipped,54.99,2018-11-23T17:24:53.230Z,SecondDay,false,Calgary,CA,T3H 3S4,Alberta
+702-1971838-9296252,7g2djh4bk9r5fcj@marketplace.amazon.ca,1,Shipped,51.99,2018-11-23T17:57:43.285Z,Standard,false,Moncton,CA,E1E 4K7,New Brunswick
+702-2625344-9024246,wzs3fdwq6h7p901@marketplace.amazon.ca,1,Shipped,51.99,2018-11-23T18:04:56.762Z,Expedited,false,Regina,CA,S4X 1Z7,Saskatchewan
+701-3392814-0485825,44tcz9nn194696k@marketplace.amazon.ca,1,Shipped,54.99,2018-11-23T19:15:15.806Z,SecondDay,false,Moncton,CA,E1C 5B7,New Brunswick
+702-5510248-3528234,z0375305k99gx2s@marketplace.amazon.ca,1,Shipped,51.99,2018-11-23T21:34:54.976Z,SecondDay,false,Montreal,CA,H2N 2J2,QuÃ©bec
+701-2979077-4125803,4n41gzkk1wn6m8r@marketplace.amazon.ca,1,Shipped,51.99,2018-11-24T00:12:56.010Z,SecondDay,false,Surrey,CA,V3S 4P3,British Columbia
+702-1071602-4146603,89nm8k7vsc2n3sc@marketplace.amazon.ca,1,Shipped,51.99,2018-11-24T01:04:16.438Z,SecondDay,false,abbotsford,CA,V2T 3L5,British Columbia
+702-1453335-5561022,f3hn6t7xkym215h@marketplace.amazon.ca,1,Shipped,51.99,2018-11-24T01:26:20.695Z,Standard,false,Varennes,CA,J3X 0C5,Quebec
+702-5983793-5673869,zppr25z8xq688h0@marketplace.amazon.ca,1,Shipped,54.99,2018-11-24T01:47:43.111Z,SecondDay,false,Saint-Hyacinthe,CA,J2T 2T4,Quebec
+701-8497729-1917033,2cr03smdwnh53vv@marketplace.amazon.ca,1,Shipped,51.99,2018-11-24T02:02:44.051Z,Standard,false,CALGARY,CA,T2W 6E0,AB
+702-6785964-5202613,0gg4507rmpvgd4v@marketplace.amazon.ca,1,Shipped,51.99,2018-11-24T02:31:08.484Z,Expedited,false,Simcoe,CA,N3Y 1T1,Ontario
+701-2557671-6221025,sy76zll2zmyc014@marketplace.amazon.ca,1,Shipped,51.99,2018-11-24T07:15:57.750Z,Expedited,false,Okotoks,CA,T1S 2G6,Alberta
+701-1785953-7197813,p0hf2qt9j7p4c46@marketplace.amazon.ca,1,Shipped,54.99,2018-11-24T14:40:34.139Z,Expedited,false,Oakville,CA,L6H0R8,Ontario
+702-1845350-9024234,null,1,Shipped,54.99,2018-11-24T17:44:16.177Z,Standard,false,Gravelbourg,CA,S0H 1X0,SK
+701-0021410-4374603,6t37cp5xpdbcxkf@marketplace.amazon.ca,1,Shipped,54.99,2018-11-24T19:24:51.998Z,Standard,false,High Level,CA,T0H 1Z0,Alberta
+702-2852268-2233044,4jchv9880s9321b@marketplace.amazon.ca,1,Shipped,51.99,2018-11-24T19:35:43.740Z,Standard,false,Barrie,CA,L4N 2R6,Ontario
+702-6282173-9694669,w1h1gt6vgsqmr7z@marketplace.amazon.ca,1,Shipped,51.99,2018-11-24T21:20:04.111Z,Standard,false,High Prairie,CA,T0G 1E0,Alberta
+701-4421332-4346607,svsnm9q89rn10g6@marketplace.amazon.ca,1,Shipped,51.99,2018-11-25T01:37:58.344Z,SecondDay,false,Amherstburg,CA,N9V 0C8,Ontario
+701-1396097-2003422,7ldnr8symhxhg0w@marketplace.amazon.ca,1,Shipped,51.99,2018-11-25T02:13:26.850Z,SecondDay,false,St-Hyacinthe,CA,J2S 5N7,Quebec
+701-7665392-9349861,null,1,Shipped,51.99,2018-11-25T02:18:26.153Z,Standard,false,Trenton,CA,K8V 5P4,Ontario
+701-4247298-4550656,25ztkypyj9wwvgb@marketplace.amazon.ca,1,Shipped,51.99,2018-11-25T13:33:32.141Z,Standard,false,Pohenegamook,CA,G0L 1J0,Quebec
+702-3010253-9005037,null,1,Shipped,51.99,2018-11-25T19:08:01.318Z,SecondDay,false,Victoria,CA,V8R 5R1,BC
+701-6916769-8779469,null,0,Canceled,null,2018-11-25T23:43:29.922Z,SecondDay,false,null,null,null,null
+701-0054854-9567439,ykf37mlsmg0gf33@marketplace.amazon.ca,1,Shipped,51.99,2018-11-25T23:52:53.213Z,Standard,false,St George's,CA,A0N 1Z0,NL
+702-3345815-2484206,null,1,Shipped,54.99,2018-11-26T01:21:53.324Z,Standard,false,ABBOTSFORD,CA,V2T 2X0,BC
+701-9851578-9490625,dxx24q2y2vc6mjm@marketplace.amazon.ca,2,Shipped,119.78,2018-11-26T03:22:15.065Z,Standard,false,Winkler,CA,R6W 4A4,Manitoba
